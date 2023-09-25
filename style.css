@@ -15,9 +15,6 @@
     background-position: center;
     background-size: contain;
 }
-.blend{
-    mix-blend-mode: multiply;
-}
 .eye1{
     z-index: 100;
     position: absolute;
