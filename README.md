@@ -1,13 +1,17 @@
 # Welcome to Mouse Eyes!
-Mouse Eyes is an project that explores a fascinating subject of the proximity hover effect. In this project, you'll see the character's eyes (Mob from Mob Psycho 100) following your mouse cursor as it goes across the screen.
+Mouse Eyes is a project that explores the fascinating subject of the proximity hover effect. In this project, you'll see the character's eyes (Mob from Mob Psycho 100) following your mouse cursor as it goes across the screen.
 
 ## Introduction
-The Mouse Eyes project is a fun and engaging method to learn about the proximity effect in a web-based environment. The proximity effect is a perceptual phenomena that occurs when items appear to be influenced or drawn to other objects as they approach. This notion is used in this project to give the illusion that Mob's eyes are drawn to your mouse cursor, resulting in a compelling visual experience.
+The Mouse Eyes project is a fun and engaging method to learn about the proximity effect in a web-based environment. The proximity effect is a perceptual phenomenon that occurs when items appear to be influenced or drawn to other objects as they approach. This project uses this notion to give the illusion that Mob's eyes are drawn to your mouse cursor, resulting in a compelling visual experience.
 
 ## Demo
 Before diving into the technical details, let's see Mouse Eyes in action! Check out our demo
 
-https://github.com/NischalShakyacc/Mouse-Eyes/assets/95970505/c148cded-38bb-43c6-a491-904c995a13df
+
+
+https://github.com/NischalShakyacc/Mouse-Eyes/assets/95970505/b2a2486f-b5a3-4929-bec6-a3bea5b7efa0
+
+
 
 
 ## How It Works
@@ -82,4 +86,4 @@ CSS is used to position Mob and his eyes.
 
 # Happy Coding!
 
-Enjoy exploring the fascinating world of the proximity effect with Mouse Eyes! If you have any questions or suggestions, feel free to open an issue or reach out to us.
+Enjoy exploring the fascinating world of the proximity effect with Mouse Eyes! Feel free to open an issue or reach out if you have any questions or suggestions.
