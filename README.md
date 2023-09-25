@@ -52,7 +52,7 @@ CSS is used to position Mob and his eyes.
 	}
 
 	/* placecharacter */
-
+	> **Note:** Use bottom, top, left , right to position your character
 	.face{
 		position: fixed;
 		bottom: 0;
