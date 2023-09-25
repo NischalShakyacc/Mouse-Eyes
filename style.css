@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* placecharacter */
+.face{
+    position: fixed;
+    bottom: 0; 
+    left: 10%;
+}
+.shape{
+    margin-bottom: -1rem;
+    height: 12rem;
+    background-position: center;
+    background-size: contain;
+}
+.blend{
+    mix-blend-mode: multiply;
+}
+.eye1{
+    z-index: 100;
+    position: absolute;
+    width: 0.55rem;
+    top: 69px;
+    left: 74px;
+}
+.eye2{
+    z-index: 100;
+    position: absolute;
+    width: 0.55rem;
+    top: 69px;
+    left: 108px;
+}
