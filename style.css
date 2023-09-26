@@ -15,17 +15,20 @@
     background-position: center;
     background-size: contain;
 }
+.blend{
+    mix-blend-mode: multiply;
+}
 .eye1{
     z-index: 100;
     position: absolute;
-    width: 0.55rem;
+    width: 0.5rem;
     top: 69px;
     left: 74px;
 }
 .eye2{
     z-index: 100;
     position: absolute;
-    width: 0.55rem;
+    width: 0.5rem;
     top: 69px;
     left: 108px;
 }
