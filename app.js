@@ -2,7 +2,7 @@ const face = document.getElementById('face');
 
 // get bounds for the area of your character
 const rect = face.getBoundingClientRect();
-console.log(rect);
+
 const eyes = document.querySelectorAll('.eye');
 const anchorX = rect.left +window.scrollX+ rect.width/2;
 const anchorY = rect.top +window.scrollY+ rect.height/2;
