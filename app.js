@@ -2,7 +2,7 @@ const face = document.getElementById('face');
 
 // get bounds for the area of your character
 const rect = face.getBoundingClientRect();
-
+console.log(rect);
 const eyes = document.querySelectorAll('.eye');
 const anchorX = rect.left +window.scrollX+ rect.width/2;
 const anchorY = rect.top +window.scrollY+ rect.height/2;
@@ -11,8 +11,8 @@ document.addEventListener("mousemove", (e) =>{
     const pointX = e.clientX;
     const pointY = e.clientY;
     const degree = angle(pointX, pointY, anchorX, anchorY);
-
     
+    console.log(anchorX, anchorY);
     // to move each eye using rotate 
     eyes.forEach(eye =>{
         eye.style.transform = `rotate(${degree}deg`;
